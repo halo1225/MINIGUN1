@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   22.21.13.8541
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.171 seconds
+Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.197802 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: a4f0 -> priority: 1 
+  Thread -> id: 9318 -> priority: 1 
+  Thread -> id: fef0 -> priority: 1 
+  Thread -> id: 9880 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.133127 ms
+
+Unloading 105 unused Assets to reduce memory usage. Loaded Objects now: 1008.
+Total: 5.893224 ms (FindLiveObjects: 0.125724 ms CreateObjectMapping: 0.044473 ms MarkObjects: 1.221750 ms  DeleteObjects: 4.499993 ms)
+
