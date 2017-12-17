@@ -7,34 +7,46 @@ Direct3D:
     VRAM:     2018 MB
     Driver:   22.21.13.8541
 Begin MonoManager ReloadAssembly
-Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading F:\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading F:\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading F:\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.171 seconds
-Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: F:\MINIGUN\MINIGUN_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.669 seconds
+Platform assembly: C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\samsung1\Documents\GitHub\MINIGUN\MINIGUN_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.197802 ms
+UnloadTime: 76.180870 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: a4f0 -> priority: 1 
-  Thread -> id: 9318 -> priority: 1 
-  Thread -> id: fef0 -> priority: 1 
-  Thread -> id: 9880 -> priority: 1 
+  Thread -> id: 1dd48 -> priority: 1 
+  Thread -> id: 23df0 -> priority: 1 
+  Thread -> id: 222c8 -> priority: 1 
+  Thread -> id: 216b4 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.133127 ms
+UnloadTime: 81.537842 ms
 
 Unloading 105 unused Assets to reduce memory usage. Loaded Objects now: 1008.
-Total: 5.893224 ms (FindLiveObjects: 0.125724 ms CreateObjectMapping: 0.044473 ms MarkObjects: 1.221750 ms  DeleteObjects: 4.499993 ms)
+Total: 29.188162 ms (FindLiveObjects: 0.062006 ms CreateObjectMapping: 0.024375 ms MarkObjects: 17.708326 ms  DeleteObjects: 11.392598 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 167.223740 ms
+
+Unloading 263 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 58.610241 ms (FindLiveObjects: 0.058585 ms CreateObjectMapping: 0.031644 ms MarkObjects: 0.242040 ms  DeleteObjects: 58.276688 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.368192 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 540.
+Total: 2.516626 ms (FindLiveObjects: 0.031644 ms CreateObjectMapping: 0.018388 ms MarkObjects: 0.248455 ms  DeleteObjects: 2.217282 ms)
 
